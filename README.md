@@ -34,10 +34,10 @@
 
 ```cmd
 :: 1. 設定安全目錄 (避免 Git 報錯)
-git config --global --add safe.directory E:/anan/C_program/UEFI/edk2
+git config --global --add safe.directory E:/xxxx/C_program/UEFI/edk2
 
 :: 2. 下載程式碼 (包含所有子模組)
-git clone --recursive https://github.com/tianocore/edk2.git E:\anan\C_program\UEFI\edk2
+git clone --recursive https://github.com/tianocore/edk2.git E:\xxxx\C_program\UEFI\edk2
 
 ```
 
@@ -46,7 +46,7 @@ git clone --recursive https://github.com/tianocore/edk2.git E:\anan\C_program\UE
 如果你發現 `BaseTools` 資料夾不完整，請進入資料夾執行：
 
 ```cmd
-cd E:\anan\C_program\UEFI\edk2
+cd E:\xxxx\C_program\UEFI\edk2
 git submodule update --init --recursive
 
 ```
@@ -234,7 +234,7 @@ UefiMain (
 2. **進入資料夾**
 ```cmd
 E:
-cd E:\anan\C_program\UEFI\edk2
+cd E:\xxxx\C_program\UEFI\edk2
 
 ```
 
