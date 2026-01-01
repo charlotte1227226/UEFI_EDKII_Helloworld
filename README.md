@@ -1,4 +1,4 @@
-# 📘 UEFI (EDK II) 開發實戰全攻略：從零到 Hello World
+# UEFI (EDK II) ：Hello World
 
 ## 第一階段：環境準備與工具安裝
 
