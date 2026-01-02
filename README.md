@@ -241,7 +241,7 @@ cd E:\xxxx\C_program\UEFI\edk2
 
 3. **發動引擎 (執行腳本)**
 ```cmd
-start.bat
+start_by_popo.bat
 
 ```
 
